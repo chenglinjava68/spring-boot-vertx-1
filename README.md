@@ -1,6 +1,6 @@
 # Spring Boot And Vertx
 
-This a quick tech demo how integrate Spring boot and Vertx:
+The Vert.x SpringBoot Example shows how you can embed Vert.x in a SpringBoot application.
 
 - [Spring Boot](http://projects.spring.io/spring-boot/),
 - [Vertx 3.0](http://vertx.io/)
